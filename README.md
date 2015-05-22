@@ -1,2 +1,2 @@
 # NJOY21.github.io
-GitHub Pages Repository
+This is the beginning of the public space for NJOY21.
